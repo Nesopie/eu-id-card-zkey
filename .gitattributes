@@ -1,2 +1,4 @@
 register_id_sha256_sha256_sha256_rsa_65537_4096.zkey filter=lfs diff=lfs merge=lfs -text
 vc_and_disclose.zkey filter=lfs diff=lfs merge=lfs -text
+dsc_sha256_rsa_65537_4096.zkey filter=lfs diff=lfs merge=lfs -text
+vc_and_disclose_id_final.zkey filter=lfs diff=lfs merge=lfs -text
